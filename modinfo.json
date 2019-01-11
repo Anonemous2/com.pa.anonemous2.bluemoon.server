@@ -1,0 +1,20 @@
+{
+	"author": "Anonemous2",
+	"build": "109959",
+	"context": "server",
+	"date": "2018-10-1",
+	"display_name": "Bluemoon",
+	"description": "Once in a bluemoon...",
+	"forum": "https://forums.planetaryannihilation.com/threads/blue-moon.73246/",
+	"identifier": "com.pa.anonemous2.bluemoon.server",
+	"signature": "not yet implemented",
+	"version": "0.1.0",
+	"icon": "https://forums.planetaryannihilation.com/data/attachments/28/28147-61ccb552c07ab5aec8f65fe6d9ad780e.jpg",
+	"companions": [
+        "com.pa.anonemous2.alienworlds.released.client"
+    ],
+	"category":
+	[
+		"biomes"
+	]
+}
