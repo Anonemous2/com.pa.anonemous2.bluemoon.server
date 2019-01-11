@@ -12,6 +12,9 @@
 	"icon": "https://forums.planetaryannihilation.com/data/attachments/28/28147-61ccb552c07ab5aec8f65fe6d9ad780e.jpg",
 	"companions": [
         "com.pa.anonemous2.bluemoon.client"
+	],
+	"dependencies": [
+        "com.pa.anonemous2.bluemoon.client"
     ],
 	"category":
 	[
